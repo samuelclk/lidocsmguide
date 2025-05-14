@@ -33,7 +33,7 @@
   * [Patching your OS](updates-and-maintenance/patching-your-os.md)
 * [✅ Best Practices](best-practices/README.md)
   * [⚠️ Slashing Prevention](best-practices/slashing-prevention.md)
-  * [📈 Maximizing Uptime and Performance](best-practices/maximizing-uptime-and-performance/README.md)
+  * [📈 Maximizing Uptime and Performance](best-practices/maximizing-uptime-and-performance.md)
     * [Community Tips](best-practices/maximizing-uptime-and-performance/community-tips.md)
   * [🔐 Optimizing Security](best-practices/optimizing-security.md)
 * [Useful Tools](useful-tools/README.md)

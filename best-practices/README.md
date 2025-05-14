@@ -10,8 +10,8 @@ Explore:
 [slashing-prevention.md](slashing-prevention.md)
 {% endcontent-ref %}
 
-{% content-ref url="maximizing-uptime-and-performance/" %}
-[maximizing-uptime-and-performance](maximizing-uptime-and-performance/)
+{% content-ref url="maximizing-uptime-and-performance.md" %}
+[maximizing-uptime-and-performance.md](maximizing-uptime-and-performance.md)
 {% endcontent-ref %}
 
 {% content-ref url="optimizing-security.md" %}
