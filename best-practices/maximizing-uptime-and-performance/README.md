@@ -16,7 +16,8 @@
 
 1. [ETH Docker performance tuning tips](https://ethdocker.com/Usage/LinuxSecurity/#additional-and-recommended-linux-performance-tuning)
    1. Switch the timekeeping service from the default NTP service to Chrony
-   2. Configure swapiness=1
+   2. Configure swapiness=1 or disable swap entirely if you have 32GB or more RAM&#x20;
    3. Configure noatime on your disk
-2. Configure Quality of Service (QoS) on your router to prioritise your validator node
-3. Maintain your own SOPs table for dealing with the various scenarios of downtime, including edge cases. Improve on this over time based on your own setup environment.
+2. [Blockshard's performance tuning tips](community-tips.md#blockshard)
+3. Configure Quality of Service (QoS) on your router to prioritise your validator node
+4. Maintain your own SOPs table for dealing with the various scenarios of downtime, including edge cases. Improve on this over time based on your own setup environment.
