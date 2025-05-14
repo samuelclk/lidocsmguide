@@ -317,14 +317,6 @@ Monitor for errors.
 ```sh
 docker logs lodestar_validator -f
 ```
-
-#### Method 2:
-
-Alternatively, to configure a separate validator client and set the `fee_recipient` address to the Lido Execution Layer Rewards Vault there, refer to the following subpage.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 {% endtab %}
 
 {% tab title="Lighthouse" %}
@@ -583,10 +575,10 @@ with the public key of the key you wish to set a separate fee recipient for, and
 {% endtab %}
 
 {% tab title="ETH Pillar" %}
-Not straightforward. Designed to assign custom `fee_recipient` addresses by running a separate validator client. Refer to the subpage below, under **"Automation Tools"**
+Not straightforward. Designed to assign custom `fee_recipient` addresses by running a separate validator client. Refer to the Ethpillar Node Setup page.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../intermediate/ethpillar.md" %}
+[ethpillar.md](../../intermediate/ethpillar.md)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
